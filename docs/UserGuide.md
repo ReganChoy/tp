@@ -539,7 +539,6 @@ You have updated James' name! ClientCare shows a success message in the Feedback
 
 ![success_edit](images/ug/success_edit.png =600x)
 
-
 ### Listing all clients : `list`
 
 After applying certain filter or finding commands, you can see all your clients again with `list`.
